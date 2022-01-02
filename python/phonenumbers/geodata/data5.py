@@ -4,7 +4,7 @@ Auto-generated file, do not edit by hand.
 """
 from ..util import u
 
-# Copyright (C) 2011-2021 The Libphonenumber Authors
+# Copyright (C) 2011-2022 The Libphonenumber Authors
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -4380,6 +4380,7 @@ data = {
  '3894767':{'en': 'Bitola/Demir Hisar/Resen'},
  '3894768':{'en': 'Bitola/Demir Hisar/Resen'},
  '3894769':{'en': 'Bitola/Demir Hisar/Resen'},
+ '389477':{'en': 'Bitola/Demir Hisar/Resen'},
  '389478':{'en': 'Bitola/Demir Hisar/Resen'},
  '389484':{'en': 'Prilep/Krusevo'},
  '389485':{'en': 'Prilep/Krusevo'},
@@ -10018,5 +10019,4 @@ data = {
  '495650':{'de': 'Cornberg', 'en': 'Cornberg'},
  '495651':{'de': 'Eschwege', 'en': 'Eschwege'},
  '495652':{'de': 'Bad Sooden-Allendorf', 'en': 'Bad Sooden-Allendorf'},
- '495653':{'de': 'Sontra', 'en': 'Sontra'},
 }

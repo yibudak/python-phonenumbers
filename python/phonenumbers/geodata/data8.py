@@ -4,7 +4,7 @@ Auto-generated file, do not edit by hand.
 """
 from ..util import u
 
-# Copyright (C) 2011-2021 The Libphonenumber Authors
+# Copyright (C) 2011-2022 The Libphonenumber Authors
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -19,6 +19,7 @@ from ..util import u
 # limitations under the License.
 
 data = {
+ '61240013':{'en': 'Bulahdelah'},
  '61240014':{'en': 'Cessnock'},
  '61240015':{'en': 'Clarence Town'},
  '61240016':{'en': 'Dungog'},
@@ -10018,5 +10019,4 @@ data = {
  '61263587':{'en': 'Running Stream'},
  '61263588':{'en': 'Running Stream'},
  '61263589':{'en': 'Running Stream'},
- '61263590':{'en': 'Portland'},
 }

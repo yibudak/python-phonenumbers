@@ -4,7 +4,7 @@ Auto-generated file, do not edit by hand.
 """
 from ..util import u
 
-# Copyright (C) 2011-2021 The Libphonenumber Authors
+# Copyright (C) 2011-2022 The Libphonenumber Authors
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -19,6 +19,7 @@ from ..util import u
 # limitations under the License.
 
 data = {
+ '55513733':{'en': 'Encruzilhada do Sul - RS', 'pt': 'Encruzilhada do Sul - RS'},
  '55513734':{'en': 'Pantano Grande - RS', 'pt': 'Pantano Grande - RS'},
  '55513735':{'en': u('V\u00e1rzea do Capivarita - RS'), 'pt': u('V\u00e1rzea do Capivarita - RS')},
  '55513736':{'en': u('Estr\u00eala - RS'), 'pt': u('Estr\u00eala - RS')},
@@ -10018,5 +10019,4 @@ data = {
  '61240010':{'en': 'Newcastle'},
  '61240011':{'en': 'Bandon Grove'},
  '61240012':{'en': 'Branxton'},
- '61240013':{'en': 'Bulahdelah'},
 }
